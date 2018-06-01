@@ -22,7 +22,7 @@ contract TestTrack {
         Assert.equal(seedSrc, expected, "Owner of pet ID 8 should be recorded.");
     }
 
-    /// test for git integration
+    /// test for git integration - 2
     // Testing retrieval of all pet owners
     function testGetSourceAddressBySeedIdInArray() public {
         // Expected owner is this contract
